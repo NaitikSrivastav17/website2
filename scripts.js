@@ -1,0 +1,1 @@
+window.alert("Please Switch On The Desktop Mode.")
